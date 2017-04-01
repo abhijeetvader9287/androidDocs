@@ -1,0 +1,5 @@
+https://github.com/integrations/sonarqube
+
+https://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes
+
+http://macoscope.com/blog/using-sonarqube-with-jenkins-continuous-integration-and-github-to-improve-code-review/
